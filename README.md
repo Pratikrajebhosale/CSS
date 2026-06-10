@@ -29,7 +29,7 @@ project-folder/
 ## Installation
 
 Clone the repository using:
-git clone <your-repository-link>
+git clone https://github.com/Pratikrajebhosale/CSS.git
 
 ## Author
 
